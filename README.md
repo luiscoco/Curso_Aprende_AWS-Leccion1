@@ -28,13 +28,14 @@
 
 ![image](https://github.com/user-attachments/assets/d481772c-064b-4176-8daf-b19f6993d254)
 
-7. Confirma tu identidad
+7. Confirma tu identidad y pulsar el botón "**Enviar SMS (paso 4 de 5)**"
 
 ![image](https://github.com/user-attachments/assets/e2a26a13-4a63-4b49-9ffb-b9e99b407a52)
 
 ![image](https://github.com/user-attachments/assets/ff369372-6dfd-4ac7-ab67-915107b788a0)
 
-8. 
+![image](https://github.com/user-attachments/assets/9c7df84f-44cb-4f22-be90-c268f5eac9c0)
+
 
 
 

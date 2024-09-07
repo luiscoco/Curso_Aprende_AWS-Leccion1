@@ -46,4 +46,7 @@
 
 ![image](https://github.com/user-attachments/assets/a4cf21dc-65ed-43d7-be9a-3a50cbe8d1ee)
 
+10. Confirmar el acceso a tu cuenta de AWS
+
+![image](https://github.com/user-attachments/assets/633463c2-f1e1-4c2f-8ba5-3b6b7a866e8d)
 

@@ -12,11 +12,16 @@ y pulsar sobre el botón "**Create a Free Account**"
 
 3. Verifica la dirección de correo pulsando en el botón "**Verify email address**"
 
-
-
-4. Introduce el código de verificación enviado a tu cuenta de correo electrónico y pulsa el botón "**Verify**"
+Introduce el código de verificación enviado a tu cuenta de correo electrónico y pulsa el botón "**Verify**"
 
 ![image](https://github.com/user-attachments/assets/5f9cf5aa-6151-42ac-b909-46f7fbec8667)
+
+4. Introduce la clave del Usuario Raíz (Root User)
+
+![image](https://github.com/user-attachments/assets/1cc7b9f9-7d69-43cf-8695-f6cbe83c8e8b)
+
+
+5. 
 
 
 

@@ -8,7 +8,7 @@ y pulsar sobre el botón "**Create a Free Account**"
 
 2. Introduce la dirección de email asociada a la cuenta "**Root user email address**" y el nombre de la cuenta "**AWS account name**" 
 
-
+![image](https://github.com/user-attachments/assets/3c11dcf7-01a2-47fb-a89d-422ca2495f63)
 
 3. Verifica la dirección de correo pulsando en el botón "**Verify email address**"
 

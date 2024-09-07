@@ -1,4 +1,4 @@
-# Curso Aprende AWS: Crear una cuenta en AWS (AWS Free Tier)
+# Curso Aprende AWS SDK para .NET: Crear una cuenta en AWS (AWS Free Tier)
 
 1. Para crear una nueva cuenta en AWS primero navega a esta dirección de Internet: **https://aws.amazon.com/free** y pulsar sobre el botón "**Create a Free Account**"
 

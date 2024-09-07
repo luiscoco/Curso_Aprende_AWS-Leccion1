@@ -12,5 +12,6 @@
 
 4. Introduce el código de verificación enviado a tu cuenta de correo electrónico
 
-![image](https://github.com/user-attachments/assets/1e8d15cb-2d9d-464f-9fe9-8df9e9f56552)
+![image](https://github.com/user-attachments/assets/34613a59-f4be-41a4-9dda-d42a9fd53f6a)
+
 

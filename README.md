@@ -42,7 +42,7 @@
 
 ![image](https://github.com/user-attachments/assets/832db762-1561-4ad8-9487-c92821bcd440)
 
-9. Ya se ha creado con éxito su cuenta en AWS
+9. Ya se ha creado con éxito su cuenta en AWS y pulsar el botón **Ir a la consola de administración de AWS**
 
 ![image](https://github.com/user-attachments/assets/a4cf21dc-65ed-43d7-be9a-3a50cbe8d1ee)
 

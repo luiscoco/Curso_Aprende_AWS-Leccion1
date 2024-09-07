@@ -1,8 +1,6 @@
 # Curso Aprende AWS: Crear una cuenta en AWS
 
-1. Para crear una nueva cuenta en AWS primero navega a esta dirección de Internet: https://aws.amazon.com/free
-
-y pulsar sobre el botón "**Create a Free Account**"
+1. Para crear una nueva cuenta en AWS primero navega a esta dirección de Internet: **https://aws.amazon.com/free** y pulsar sobre el botón "**Create a Free Account**"
 
 ![image](https://github.com/user-attachments/assets/f12ea633-4bc0-4bc0-b2da-6dfe44fc0cca)
 

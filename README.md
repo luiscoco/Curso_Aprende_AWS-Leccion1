@@ -22,7 +22,7 @@
 
 ![image](https://github.com/user-attachments/assets/3142b80a-f4fa-4133-bc96-c974040b6a0b)
 
-6. Introduce la **Información de Facturación**. Es necesario aportar el número de una tarjeta de crédito asociada a tu cuenta bancaria
+6. Introduce la **Información de Facturación**. Es necesario aportar el número de una tarjeta de crédito asociada a tu cuenta bancaria y pulsar el botón "**Continuar (paso 3 de 5)**"
 
 ![image](https://github.com/user-attachments/assets/32ade17c-8fd9-4a6a-9d33-e19230c9aa18)
 

@@ -28,10 +28,13 @@
 
 ![image](https://github.com/user-attachments/assets/d481772c-064b-4176-8daf-b19f6993d254)
 
-7. 
+7. Confirma tu identidad
+
+![image](https://github.com/user-attachments/assets/706fc719-8111-42e2-a2d0-9ddcbcc0a6e6)
 
 
-7. 
+
+8. 
 
 
 

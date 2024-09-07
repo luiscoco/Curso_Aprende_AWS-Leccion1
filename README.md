@@ -10,4 +10,7 @@
 
 ![image](https://github.com/user-attachments/assets/1aef9bce-1217-4d32-a2c0-e0b4d6421002)
 
-4. 
+4. Introduce el código de verificación enviado a tu cuenta de correo electrónico
+
+![image](https://github.com/user-attachments/assets/1e8d15cb-2d9d-464f-9fe9-8df9e9f56552)
+

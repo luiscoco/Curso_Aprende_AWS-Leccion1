@@ -12,13 +12,15 @@
 
 ![image](https://github.com/user-attachments/assets/5f9cf5aa-6151-42ac-b909-46f7fbec8667)
 
-4. Introduce la clave del Usuario Raíz (Root User) y pulsa el botón "**Continue (step 1 of 5)**"
+4. Introduce la clave del Usuario Raíz (Root User) y pulsa el botón "**Continuar (paso 1 de 5)**"
 
 ![image](https://github.com/user-attachments/assets/1cc7b9f9-7d69-43cf-8695-f6cbe83c8e8b)
 
-5. Introduce tu información de contacto
+5. Introduce tu **información de contacto** y pulsar el botón "**Continuar (paso 2 de 5)**"
 
 ![image](https://github.com/user-attachments/assets/baf387c7-c7c6-43d1-8652-bb6c8eeda728)
+
+![image](https://github.com/user-attachments/assets/3142b80a-f4fa-4133-bc96-c974040b6a0b)
 
 6.  
 

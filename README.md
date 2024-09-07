@@ -16,6 +16,7 @@ y pulsar sobre el botón "**Create a Free Account**"
 
 4. Introduce el código de verificación enviado a tu cuenta de correo electrónico y pulsa el botón "**Verify**"
 
+![image](https://github.com/user-attachments/assets/5f9cf5aa-6151-42ac-b909-46f7fbec8667)
 
 
 

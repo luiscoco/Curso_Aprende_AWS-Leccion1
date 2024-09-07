@@ -30,7 +30,8 @@
 
 7. Confirma tu identidad
 
-![image](https://github.com/user-attachments/assets/706fc719-8111-42e2-a2d0-9ddcbcc0a6e6)
+![image](https://github.com/user-attachments/assets/e2a26a13-4a63-4b49-9ffb-b9e99b407a52)
+
 
 
 

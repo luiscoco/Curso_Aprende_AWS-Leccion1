@@ -8,9 +8,7 @@
 
 ![image](https://github.com/user-attachments/assets/3c11dcf7-01a2-47fb-a89d-422ca2495f63)
 
-3. Verifica la dirección de correo pulsando en el botón "**Verify email address**"
-
-Introduce el código de verificación enviado a tu cuenta de correo electrónico y pulsa el botón "**Verify**"
+3. Verifica la dirección de correo pulsando en el botón "**Verify email address**". Introduce el código de verificación enviado a tu cuenta de correo electrónico y pulsa el botón "**Verify**"
 
 ![image](https://github.com/user-attachments/assets/5f9cf5aa-6151-42ac-b909-46f7fbec8667)
 
@@ -18,8 +16,11 @@ Introduce el código de verificación enviado a tu cuenta de correo electrónico
 
 ![image](https://github.com/user-attachments/assets/1cc7b9f9-7d69-43cf-8695-f6cbe83c8e8b)
 
+5. Introduce tu información de contacto
 
-5. 
+![image](https://github.com/user-attachments/assets/baf387c7-c7c6-43d1-8652-bb6c8eeda728)
+
+6.  
 
 
 

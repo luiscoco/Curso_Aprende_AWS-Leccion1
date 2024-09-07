@@ -36,6 +36,10 @@
 
 ![image](https://github.com/user-attachments/assets/9c7df84f-44cb-4f22-be90-c268f5eac9c0)
 
+8. Seleccionar un **plan de soporte**
 
+![image](https://github.com/user-attachments/assets/0f55452c-fa62-4108-861e-be5147d03fb4)
+
+![image](https://github.com/user-attachments/assets/832db762-1561-4ad8-9487-c92821bcd440)
 
 

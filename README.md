@@ -16,7 +16,7 @@ Introduce el código de verificación enviado a tu cuenta de correo electrónico
 
 ![image](https://github.com/user-attachments/assets/5f9cf5aa-6151-42ac-b909-46f7fbec8667)
 
-4. Introduce la clave del Usuario Raíz (Root User)
+4. Introduce la clave del Usuario Raíz (Root User) y pulsa el botón "**Continue (step 1 of 5)**"
 
 ![image](https://github.com/user-attachments/assets/1cc7b9f9-7d69-43cf-8695-f6cbe83c8e8b)
 
